@@ -1,4 +1,9 @@
-"""Problem statement"""
+"""Read an integer .
+
+Without using any string methods, try to print the following:
+
+
+Note that "" represents the values in between."""
 
 # https://www.hackerrank.com/challenges/python-print/problem
 
